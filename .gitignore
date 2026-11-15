@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+backend/report.db
+frontend/node_modules/
+frontend/dist/
+artifacts/
+.playwright-mcp/
+.DS_Store
